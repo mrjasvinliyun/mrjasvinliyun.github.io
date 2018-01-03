@@ -1,10 +1,7 @@
-## Mr Jasvin Liyun
+### Mr Jasvin Liyun
+> To look upon job environment whereby can utilize my educational background, experiences and skills in a position that requires innovative and challenges and career advancement opportunity. I am keen to learn new things, new experiences and new responsibility as well. I have passionate about software architecture and engineering.
 
-You can use the [editor on GitHub](https://github.com/mrjasvinliyun/mrjasvinliyun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Experince
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
