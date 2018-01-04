@@ -1,14 +1,13 @@
 #### Mr Jasvin Liyun
-##### Kota Kinabalu, Sabah  mrjasvinliyun.github.io
-> ##### Interested in open source (Laravel, Python Django, Javascript & Etc)
+##### Kota Kinabalu, Sabah  (mrjasvinliyun.github.io)
+> ##### Interested in open source (Laravel framework, Python django, Javascript & Etc)
 ---
 > ##### _To look upon job environment whereby can utilize my educational background, experiences and skills in a position that requires innovative and challenges and career advancement opportunity. I am keen to learn new things, new experiences and new responsibility as well. I have passionate about software architecture and engineering_.
 >
 ---
 
 ## Experince
-### Web Developer (UITM Sabah) 
-> #### October 2013 – March 2014
+### Web Developer (UITM Sabah) ### Internship _October 2013 – March 2014_
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
