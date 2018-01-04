@@ -1,7 +1,6 @@
 #### Mr Jasvin Liyun
-##### Kota Kinabalu, Sabah ###
+##### Kota Kinabalu, Sabah  mrjasvinliyun.github.io
 > ##### Interested in open source (Laravel, Python Django, Javascript & Etc)
->
 ---
 > ##### _To look upon job environment whereby can utilize my educational background, experiences and skills in a position that requires innovative and challenges and career advancement opportunity. I am keen to learn new things, new experiences and new responsibility as well. I have passionate about software architecture and engineering_.
 >
