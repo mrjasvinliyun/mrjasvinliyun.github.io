@@ -7,7 +7,7 @@
 ---
 
 
-## Experince
+### Experince
 #### Web Developer (UITM Sabah) 
 
 > ##### (Internship) *October 2013 – March 2014*
@@ -24,5 +24,13 @@
 #### Telekom Malaysia Berhad, Kepayan
 > ##### SL1M Executive at Access Network Delivery (AND) department August 2017 - Current
 
-## Freelance Project With Team
+### Freelance Project With Team
 > ##### Convo on Stage (C#, Mssql, RFID)
+
+### Education
+> Diploma In Computer Sciene *2010 - 2014*
+> > C++, PHP, Mysql, Java OOP, Calculus I & II
+
+> Bachelor Degree In Computer Sciene *2014 - 2017*
+> > PHP, Oracle 11g, Mysql, Java, Data Structure, Software Engineering,
+Image Processing, Computer Graphics
