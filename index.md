@@ -24,7 +24,7 @@
 #### Telekom Malaysia Berhad, Kepayan
 > ##### SL1M Executive at Access Network Delivery (AND) department August 2017 - Current
 > > - Help monitoring and updating network masterplan HSBB on google map.
-> > - Produce documentation of HSBB
+> > - Prepared documentation of HSBB
 
 ### Freelance Project With Team
 > ##### Convo on Stage (C#, Mssql, RFID)
@@ -43,8 +43,8 @@ Image Processing, Computer Graphics, Artificial Intelligence
 > - The particular organization can use the system to keep track the information of the flood victim
 
 ### Certification
-> MS: Visual Studio - Microsoft Specialist: Programming in HTML5 & JavaScript or C#, **August 2016**
-> **Microsoft Certification ID : 13495868 **
+> - MS: Visual Studio - Microsoft Specialist: Programming in HTML5 & JavaScript or C#, **August 2016**
+> - **Microsoft Certification ID : 13495868**
 
 ### CO-CURICULAR ACTIVITIES
 #### Member of chess association
