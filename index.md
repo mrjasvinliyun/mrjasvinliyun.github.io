@@ -12,10 +12,12 @@
 > #### (Internship) *October 2013 – March 2014*
 > > Developed web application (System Pengambilan & Pemulangan Skrip Peperiksaan).
 ---
+
 ### JPKN, Web Developer 
 > #### (Internship) *August 2016 – December 2016*
 > > Developed web application (System Monitoring Strategic Plan)
 ---
+
 ### Phi software company, Programmer
 > #### Part time as a web developer *Feb 2017 - Mei 2017
 > > nodejs, linux, html, git, mithril js
