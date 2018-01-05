@@ -37,6 +37,19 @@
 > > PHP, Oracle 11g, Mysql, Java, Data Structure, Software Engineering,
 Image Processing, Computer Graphics, Artificial Intelligence
 
+#### Degree Thesis
+##### Title: Web Application: Contribution Management System
+> - The purpose for this project is to help or guide the agencies in distributing the aids using visualization method.
+> - The particular organization can use the system to keep track the information of the flood victim
+
+### Certification
+> MS: Visual Studio - Microsoft Specialist: Programming in HTML5 & JavaScript or C#, **August 2016**
+> **Microsoft Certification ID : 13495868 **
+
 ### Favorites
 #### Editor
 > Visual studio code, Sublime text, Notepad++,Microsoft Visual Studio Family, PyCharm, PhpStorm And etc
+
+### Operating System
+> Mac OS, Debian, Windows
+
