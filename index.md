@@ -10,19 +10,19 @@
 ### Experince
 #### Web Developer (UITM Sabah) 
 
-> ##### (Internship), **October 2013 – March 2014**
+> ##### (Internship), *October 2013 – March 2014*
 > > Developed web application (System Pengambilan & Pemulangan Skrip Peperiksaan).
 
 #### JPKN, Web Developer 
-> ##### (Internship), **August 2016 – December 2016**
+> ##### (Internship), *August 2016 – December 2016*
 > > Developed web application (System Monitoring Strategic Plan)
 
 #### Phi software company, Web Developer
-> ##### Web developer (Contract), **Feb 2017 - Mei 2017**
+> ##### Web developer (Contract), *Feb 2017 - Mei 2017*
 > > Nodejs, Linux, Html5, Git, Mithril Js
 
 #### Telekom Malaysia Berhad, Kepayan
-> ##### SL1M Executive at Access Network Delivery (AND) department, August 2017 - Current
+> ##### SL1M Executive at Access Network Delivery (AND) department, *August 2017 - Current*
 > > - Help monitoring and updating network masterplan HSBB on google map.
 > > - Prepared documentation of HSBB
 
