@@ -34,3 +34,7 @@
 > Bachelor Degree In Computer Sciene **2014 - 2017**
 > > PHP, Oracle 11g, Mysql, Java, Data Structure, Software Engineering,
 Image Processing, Computer Graphics, Artificial Intelligence
+
+### Favorites
+### Editor
+> #### Visual studio code, Sublime text, Notepad++,Microsoft Visual Studio Family, PyCharm, PhpStorm And etc
