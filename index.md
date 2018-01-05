@@ -18,7 +18,7 @@
 > > Developed web application (System Monitoring Strategic Plan)
 
 #### Phi software company, Programmer
-> ##### Part time as a web developer <p>*Feb 2017 - Mei 2017*</p>
+> ##### Part time as a web developer &nbsp *Feb 2017 - Mei 2017*
 > > nodejs, linux, html, git, mithril js
 
 #### Telekom Malaysia Berhad, Kepayan
