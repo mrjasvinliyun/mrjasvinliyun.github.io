@@ -2,7 +2,7 @@
 ##### Kota Kinabalu, Sabah     [mrjasvinliyun.github.oi](mrjasvinliyun.github.io)
 > ##### Interested in open source (Laravel framework, Python django, Javascript, Database Design & Etc)
 ---
-> ##### *To look upon job environment whereby can utilize my educational background, experiences and skills in a position that requires innovative and challenges and career advancement opportunity. I am keen to learn new things, new experiences and new responsibility as well. I have passionate about software architecture and engineering*.
+> ##### *To look upon job environment whereby can utilize my educational background, experiences and skills in a position that requires innovative and challenges and career advancement opportunity. I am keen to learn new things, new experiences and new responsibility as well. I have passionate about software architecture and engineering*. Open minded about technology and willing to learn from others.
 >
 ---
 
