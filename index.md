@@ -2,7 +2,7 @@
 ##### Kota Kinabalu, Sabah     [mrjasvinliyun.github.oi](mrjasvinliyun.github.io)
 > ##### Interested in open source (Laravel framework, Python django, Javascript, Database Design & Etc)
 ---
-> ##### *To look upon job environment whereby can utilize my educational background, experiences and skills in a position that requires innovative and challenges and career advancement opportunity. I am keen to learn new things, new experiences and new responsibility as well. I have passionate about software architecture and engineering*. Open minded about technology and willing to learn from others.
+> ##### *To look upon job environment whereby can utilize my educational background, experiences and skills in a position that requires innovative and challenges and career advancement opportunity. I am keen to learn new things, new experiences and new responsibility as well. I have passionate about software architecture and engineering. Open minded about technology and willing to learn from others.*
 >
 ---
 
@@ -19,7 +19,7 @@
 
 #### Phi software company, Web Developer
 > ##### Part time as a web developer **Feb 2017 - Mei 2017**
-> > Nodejs, Linux, Html, Git, Mithril js
+> > Nodejs, Linux, Html5, Git, Mithril Js
 
 #### Telekom Malaysia Berhad, Kepayan
 > ##### SL1M Executive at Access Network Delivery (AND) department August 2017 - Current
@@ -48,8 +48,8 @@ Image Processing, Computer Graphics, Artificial Intelligence
 
 ### CO-CURICULAR ACTIVITIES
 #### Member of chess association
-> - Member of traditional dance and
-> - creative, 2012-2013
+> - Member of chess association
+> - Member of traditional dance and creative, 2012-2013
 > - Committee, Innovation And Technological Entrepreneurship Carnival
 
 ### Favorites
