@@ -30,10 +30,10 @@
 > ##### Convo on Stage (C#, Mssql, RFID)
 
 ### Education
-> Diploma In Computer Sciene, University of Mara Technology (UITM), **2010 - 2013**
+> Diploma In Computer Sciene, University of Mara Technology (UITM) Kota Samarahan Sarawak, **2010 - 2013**
 > > C++, PHP, Mysql, Java OOP, Calculus I & II
 
-> Bachelor Degree In Computer Sciene, University of Mara Technology (UITM), **Sep 2014 - Aug 2016**
+> Bachelor Degree In Computer Sciene, University of Mara Technology (UITM) Jasin Melaka, **Sep 2014 - Aug 2016**
 > > PHP, Oracle 11g, Mysql, Java, Data Structure, Software Engineering,
 Image Processing, Computer Graphics, Artificial Intelligence
 
