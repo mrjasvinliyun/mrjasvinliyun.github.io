@@ -8,9 +8,8 @@
 
 ## Experince
 ### Web Developer (UITM Sabah) 
-> ### (Internship) *October 2013 – March 2014*
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+> #### (Internship) *October 2013 – March 2014*
+> > Developed web application (System Pengambilan & Pemulangan Skrip Peperiksaan).
 ```markdown
 Syntax highlighted code block
 
