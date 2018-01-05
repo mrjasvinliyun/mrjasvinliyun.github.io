@@ -10,15 +10,15 @@
 ### Experince
 #### Web Developer (UITM Sabah) 
 
-> ##### (Internship) *October 2013 – March 2014*
+> ##### (Internship) **October 2013 – March 2014**
 > > Developed web application (System Pengambilan & Pemulangan Skrip Peperiksaan).
 
 #### JPKN, Web Developer 
-> ##### (Internship) *August 2016 – December 2016*
+> ##### (Internship) **August 2016 – December 2016**
 > > Developed web application (System Monitoring Strategic Plan)
 
 #### Phi software company, Web Developer
-> ##### Part time as a web developer *Feb 2017 - Mei 2017*
+> ##### Part time as a web developer **Feb 2017 - Mei 2017**
 > > nodejs, linux, html, git, mithril js
 
 #### Telekom Malaysia Berhad, Kepayan
@@ -28,9 +28,9 @@
 > ##### Convo on Stage (C#, Mssql, RFID)
 
 ### Education
-> Diploma In Computer Sciene *2010 - 2014*
+> Diploma In Computer Sciene **2010 - 2014**
 > > C++, PHP, Mysql, Java OOP, Calculus I & II
 
-> Bachelor Degree In Computer Sciene *2014 - 2017*
+> Bachelor Degree In Computer Sciene **2014 - 2017**
 > > PHP, Oracle 11g, Mysql, Java, Data Structure, Software Engineering,
 Image Processing, Computer Graphics, Artificial Intelligence
