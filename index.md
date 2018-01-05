@@ -25,4 +25,4 @@
 > ##### SL1M Executive at Access Network Delivery (AND) department August 2017 - Current
 
 ## Freelance Project With Team
-> > Convo on Stage (C#, Mssql, RFID)
+> ##### Convo on Stage (C#, Mssql, RFID)
