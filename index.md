@@ -23,18 +23,20 @@
 
 #### Telekom Malaysia Berhad, Kepayan
 > ##### SL1M Executive at Access Network Delivery (AND) department August 2017 - Current
+> > - Help monitoring and updating network masterplan HSBB on google map.
+> > - Produce documentation of HSBB
 
 ### Freelance Project With Team
 > ##### Convo on Stage (C#, Mssql, RFID)
 
 ### Education
-> Diploma In Computer Sciene **2010 - 2014**
+> Diploma In Computer Sciene **2010 - 2013**
 > > C++, PHP, Mysql, Java OOP, Calculus I & II
 
-> Bachelor Degree In Computer Sciene **2014 - 2017**
+> Bachelor Degree In Computer Sciene **Sep 2014 - Aug 2016**
 > > PHP, Oracle 11g, Mysql, Java, Data Structure, Software Engineering,
 Image Processing, Computer Graphics, Artificial Intelligence
 
 ### Favorites
-### Editor
-> #### Visual studio code, Sublime text, Notepad++,Microsoft Visual Studio Family, PyCharm, PhpStorm And etc
+#### Editor
+> Visual studio code, Sublime text, Notepad++,Microsoft Visual Studio Family, PyCharm, PhpStorm And etc
