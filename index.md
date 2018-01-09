@@ -47,7 +47,6 @@ Image Processing, Computer Graphics, Artificial Intelligence
 > - **Microsoft Certification ID : 13495868**
 
 ### CO-CURICULAR ACTIVITIES
-#### Member of chess association
 > - Member of chess association
 > - Member of traditional dance and creative, 2012-2013
 > - Committee, Innovation And Technological Entrepreneurship Carnival
