@@ -25,6 +25,8 @@
 > ##### SL1M Executive at Access Network Delivery (AND) department, *August 2017 - Current*
 > > - Help monitoring and updating network masterplan HSBB on google map.
 > > - Prepared documentation of HSBB
+> > - Create Project using GEMS
+> > - Prepare Project Costing
 
 ### Freelance Project With Team
 > ##### Convo on Stage (C#, Mssql, RFID)
