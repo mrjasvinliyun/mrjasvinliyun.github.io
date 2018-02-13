@@ -23,10 +23,11 @@
 
 #### Telekom Malaysia Berhad, Kepayan
 > ##### SL1M Executive at Access Network Delivery (AND) department, *August 2017 - Current*
-> > - Help monitoring and updating network masterplan HSBB on google map.
-> > - Prepared documentation of HSBB
-> > - Create Project using GEMS
-> > - Prepare Project Costing
+> > - Update as built HSBB area on hardcopy master plan.
+> > - Plot school list area in Sabah (Bestari Net) on google map.
+> > - Check neps report and plot copper and HSBB cabinet
+> > - Extract port utilization report into excel
+> > - Study on create project (GEMS) and project costing
 
 ### Freelance Project With Team
 > ##### Convo on Stage (C#, Mssql, RFID)
