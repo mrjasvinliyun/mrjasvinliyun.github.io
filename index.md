@@ -22,12 +22,14 @@
 > > Nodejs, Linux, Html5, Git, Mithril Js
 
 #### Telekom Malaysia Berhad, Kepayan
-> ##### SL1M Executive at Access Network Delivery (AND) department, *August 2017 - Current*
+> ##### TM Executive at Access Network Delivery (AND) department, *August 2017 - Current*
 > > - Update as built HSBB area on hardcopy master plan.
 > > - Plot school list area in Sabah (Bestari Net) on google map.
-> > - Check neps report and plot copper and HSBB cabinet
-> > - Extract port utilization report into excel
-> > - Study on create project (GEMS) and project costing
+> > - Check Neps/TMOM report with distance of copper DP (streamyx) vs HSBB FDP and Cabinet
+> > - Extract port utilization report into excel from OCTIS System
+> > - Study on create project (GEMS
+> > - Study on project costing
+> > - Check BOQ USP project
 
 ### Freelance Project With Team
 > ##### Convo on Stage (C#, Mssql, RFID)
