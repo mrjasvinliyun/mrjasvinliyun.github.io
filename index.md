@@ -22,14 +22,28 @@
 > > Nodejs, Linux, Html5, Git, Mithril Js
 
 #### Telekom Malaysia Berhad, Kepayan
-> ##### TM Executive at Access Network Delivery (AND) department, *August 2017 - Current*
-> > - Update as built HSBB area on hardcopy master plan.
-> > - Plot school list area in Sabah (Bestari Net) on google map.
-> > - Check Neps/TMOM report with distance of copper DP (streamyx) vs HSBB FDP and Cabinet
-> > - Extract port utilization report into excel from OCTIS System
-> > - Study on create project (GEMS
-> > - Study on project costing
-> > - Check BOQ USP project
+> ##### Network Engineer at Access Network Delivery, *August 2017 - July 2018*
+> > -	Update as built HSBB area on hardcopy master plan.
+> > -	Provide a conceptual design to other team implementation
+> > > -	Update as built(served area by HSBB infra) High Speed BroadBand area in north east coast/north west coast/Labuan in sabah.
+> > -	Provide a conceptual design whole school in sabah which targeted to served 30Mbps speed of internet each school using google map app. The project named Bestari Net.
+> > -	Check Neps/TM Map Online report system with distance of copper Distribution Point(streamyx) vs High Speed Broad Broadband DP and Cabinet 
+> > -	Provide data which is number of property of Tuaran,Tamparuli,Sipitang and Beaufort district for SUBB & HSBB project.
+> > -	Extract port utilization report into excel from OCTIS System.
+> > -	Project creation in System (GEMS) 
+> > -	Calculate project costing for USP/SRR/1GOV/Circulation project
+> > > -	prepared budgets, bill of quantities(BOQ) and other documentation by using standard excel template provide by Telekom Malaysia Berhad
+> > -	Project Monitoring
+> > > - Monitor project handed over to Project delivery (PD) team(weekly)
+> > > -	Monitor RFSI date for project NPP (Project Urgent)
+> > > -	Prepared primavera(P6) report for every PD team(weekly)
+> > > -	Prepared and monitored piam/pac
+> > > -	Prepared dp tagging report(monthly)
+> > -	Deal with customer and account executive(AE) regarding the technical issued
+> > -	Involved meetings with the marketing group in order to settle various deals with them
+> > -	Involve meeting with GOV such as Bomba JKR, MCMC Sabah, marketing team(internal) and many more
+> > -	Knowledge in conceptual design of newtworking
+> > -	Excellent in Microsoft excel for providing report to top management
 
 ### Freelance Project With Team
 > ##### Convo on Stage (C#, Mssql, RFID)
