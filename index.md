@@ -22,7 +22,7 @@
 > > Nodejs, Linux, Html5, Git, Mithril Js
 
 #### Telekom Malaysia Berhad, Kepayan
-> ##### TM Executive at Access Network Delivery (AND) department, *August 2017 - July 2018*
+> ##### Network Engineer at Access Network Delivery (AND), *August 2017 - July 2018*
 > > - Update as built HSBB area on hardcopy master plan.
 > > - Plot school list area in Sabah (Bestari Net) on google map.
 > > - Check Neps/TMOM report with distance of copper DP (streamyx) vs HSBB FDP and Cabinet
