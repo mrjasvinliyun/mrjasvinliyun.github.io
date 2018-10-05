@@ -45,7 +45,6 @@
 > > -	Knowledge in conceptual design of newtworking
 > > -	Excellent in Microsoft excel for providing report to top management
 
-
 ### Freelance Project With Team
 > ##### Convo on Stage (C#, Mssql, RFID)
 
