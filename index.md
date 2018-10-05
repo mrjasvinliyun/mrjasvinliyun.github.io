@@ -1,40 +1,65 @@
 #### Mr Jasvin Liyun
-> ##### Interested in open source (Laravel, Python Django, Javascript & Etc)
+##### Kota Kinabalu, Sabah     [mrjasvinliyun.github.oi](mrjasvinliyun.github.io)
+> ##### Interested in open source (Laravel framework, Python django, Javascript, Database Design & Etc)
+---
+> ##### *To look upon job environment whereby can utilize my educational background, experiences and skills in a position that requires innovative and challenges and career advancement opportunity. I am keen to learn new things, new experiences and new responsibility as well. I have passionate about software architecture and engineering. Open minded about technology and willing to learn from others.*
 >
 ---
-> ##### _To look upon job environment whereby can utilize my educational background, experiences and skills in a position that requires innovative and challenges and career advancement opportunity. I am keen to learn new things, new experiences and new responsibility as well. I have passionate about software architecture and engineering_.
->
----
 
-## Experince
-### Web Developer (UITM Sabah) 
-> #### October 2013 – March 2014
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Experince
+##### Web Developer (UITM Sabah) 
 
-# Header 1
-## Header 2
-### Header 3
+> ##### (Internship), *October 2013 – March 2014*
+> > Developed web application (System Pengambilan & Pemulangan Skrip Peperiksaan).
 
-- Bulleted
-- List
+##### JPKN, Web Developer 
+> ##### (Internship), *August 2016 – December 2016*
+> > Developed web application (System Monitoring Strategic Plan)
 
-1. Numbered
-2. List
+##### Phi software company, Web Developer
+> ##### Web developer (Contract), *Feb 2017 - Mei 2017*
+> > Nodejs, Linux, Html5, Git, Mithril Js
 
-**Bold** and _Italic_ and `Code` text
+#### Telekom Malaysia Berhad, Kepayan
+> ##### TM Executive at Access Network Delivery (AND) department, *August 2017 - July 2018*
+> > - Update as built HSBB area on hardcopy master plan.
+> > - Plot school list area in Sabah (Bestari Net) on google map.
+> > - Check Neps/TMOM report with distance of copper DP (streamyx) vs HSBB FDP and Cabinet
+> > - Extract port utilization report into excel from OCTIS System
+> > - Study on create project (GEMS
+> > - Study on project costing
+> > - Check BOQ USP project
 
-[Link](url) and ![Image](src)
-```
+### Freelance Project With Team
+> ##### Convo on Stage (C#, Mssql, RFID)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Education
+> Diploma In Computer Sciene, University of Mara Technology (UITM) Kota Samarahan Sarawak, **2010 - 2013**
+> > C++, PHP, Mysql, Java OOP, Calculus I & II
 
-### Jekyll Themes
+> Bachelor Degree In Computer Sciene, University of Mara Technology (UITM) Jasin Melaka, **Sep 2014 - Aug 2016**
+> > PHP, Oracle 11g, Mysql, Java, Data Structure, Software Engineering,
+Image Processing, Computer Graphics, Artificial Intelligence
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrjasvinliyun/mrjasvinliyun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Degree Thesis
+##### Title: Web Application: Contribution Management System
+> - The purpose for this project is to help or guide the agencies in distributing the aids using visualization method.
+> - The particular organization can use the system to keep track the information of the flood victim
 
-### Support or Contact
+### Certification
+> - MS: Visual Studio - Microsoft Specialist: Programming in HTML5 & JavaScript or C#, **August 2016**
+> - **Microsoft Certification ID : 13495868**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### CO-CURICULAR ACTIVITIES
+> - Member of chess association
+> - Member of traditional dance and creative, 2012-2013
+> - Committee, Innovation And Technological Entrepreneurship Carnival
+
+### Favorites
+#### Editor
+> Visual studio code, Sublime text, Notepad++,Microsoft Visual Studio Family, PyCharm, PhpStorm And etc
+
+### Operating System
+> Mac OS, Debian, Windows
+
